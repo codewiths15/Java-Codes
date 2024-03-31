@@ -10,12 +10,19 @@ public class Palindrom {
         b = a.toCharArray();
         System.out.println(Arrays.toString(b));
         int check = palindrom_check(b);
-        if(check ==1){
+        if(b==null || b.length==0){
             System.out.println("It is a Palindrome");
         }
         else{
-            System.out.println("It is not a palindrome");
+            if(check==1){
+                System.out.println("It is a Palindrome");
+            }
+            else{
+                System.out.println("It is not a palindrome");
+            }
+
         }
+       
     }
 
     static int palindrom_check(char[] b){

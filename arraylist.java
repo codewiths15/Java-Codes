@@ -7,35 +7,35 @@ public class arraylist {
         Scanner sc = new Scanner(System.in);
         ArrayList<ArrayList<Integer>> list = new ArrayList<>();
 
-        // list.add(100);
-        // list.add(100);
-        // list.add(100);
-        // list.add(100);
-        // list.add(100);
-        // list.add(100);
-        // list.add(500);
-        // list.add(200);
-        // list.add(700);
-        // list.add(600);
-        // list.add(400);
-        // list.add(800);
-        // list.add(600);
-        // list.add(300);
-        // list.add(200);
+        //  list.add(100);
+        //  list.add(100);
+        //  list.add(100);
+        //  list.add(100);
+        //  list.add(100);
+        //  list.add(100);
+        //  list.add(500);
+        //  list.add(200);
+        //  list.add(700);
+        //  list.add(600);
+        //  list.add(400);
+        //  list.add(800);
+        //  list.add(600);
+        //  list.add(300);
+        //  list.add(200);
 
-        // System.out.println(list);
+        //  System.out.println(list);
 
-        // //System.out.println(list.contains(800));
-        // System.out.println(list);
+        //  System.out.println(list.contains(800));
+        //  System.out.println(list);
 
-        // for (int i = 0; i < 10; i++) {
+        //  for (int i = 0; i < 10; i++) {
 
-        // list.add(sc.nextInt());
-        // }
+        //  list.add(sc.nextInt());
+        //  }
 
-        // for (int i = 0; i < 10; i++) {
-        // System.out.println(list.get(i));
-        // }
+        //  for (int i = 0; i < 10; i++) {
+        //  System.out.println(list.get(i));
+        //  }
 
         for (int i = 0; i < 3; i++) {
             list.add(new ArrayList<>());
