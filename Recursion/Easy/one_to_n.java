@@ -1,4 +1,4 @@
-package Recurrsion.Easy;
+package Recursion.Easy;
 
 public class one_to_n {
 

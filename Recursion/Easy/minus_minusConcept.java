@@ -1,4 +1,4 @@
-package Recurrsion.Easy;
+package Recursion.Easy;
 
 public class minus_minusConcept {
 
